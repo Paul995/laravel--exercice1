@@ -1,0 +1,17 @@
+1. commande pour creer projet:
+composer create-project --prefer-dist laravel/laravel exercice1
+
+ 2. css est bootstrap
+ reference:
+https://startbootstrap.com/theme/resume
+
+4. controlleur:
+php artisan make:controller ExerciceController
+
+
+
+lien webdev:
+
+
+lien github :
+
